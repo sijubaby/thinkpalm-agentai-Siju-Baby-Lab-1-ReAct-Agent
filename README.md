@@ -45,4 +45,4 @@ The ReAct Agent demonstrates:
 Thrissur
 
 ## Sample Output
-A popular restaurant in Kozhikode is Paragon Restaurant.
+A popular restaurant in Thrissur is Paragon Restaurant.
